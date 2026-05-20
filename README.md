@@ -10,6 +10,10 @@
 BCA Student · Open-Source Developer · India
 ```
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Gaurav-kun/gif-terminal/main/output.gif" alt="Terminal GIF" width="100%"/>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
