@@ -29,13 +29,13 @@
     <tr>
       <td width="65%">
         <p>
-          I'm a <strong>BCA student from India</strong> and a strong believer in open-source software. My goal is to build and share the best open-source features I can — tools and experiences that people actually enjoy using.
+          I'm a <strong>BCA student from India</strong> who's been obsessed with open-source since day one. I don't just use it — I genuinely believe in it. The idea that anyone can look at, modify, and share software is what got me into this, and it's still what keeps me going.
         </p>
         <p>
-          I develop across <strong>Linux</strong> and <strong>Windows</strong>, currently building <strong>Rust-based applications</strong> on <strong>GNOME</strong>. Active learning stack: <strong>Rust</strong>, <strong>C++</strong>, <strong>PHP</strong>.
+          I build across <strong>Linux</strong> and <strong>Windows</strong> — currently knee-deep in <strong>Rust</strong> on <strong>GNOME</strong>, also picking up <strong>C++</strong> and <strong>PHP</strong> along the way. On the web side, I make <strong>Three.js</strong> scenes, <strong>Web Audio</strong> soundscapes, particle systems, and scroll-driven storytelling — things that feel alive.
         </p>
         <p>
-          In my public work, I build data-driven web experiences — from <strong>Three.js 3D scenes</strong> and <strong>Web Audio API soundscapes</strong> to <strong>particle systems</strong> and <strong>scroll-powered storytelling</strong>.
+          I lean heavily on <strong>Claude (Anthropic)</strong> as my daily coding copilot — it helps me think through architecture, refactor messy code, and occasionally tells me when I'm overcomplicating things. I also run <strong>Ollama</strong> locally for quick experiments and offline tinkering. AI's not a crutch for me — it's a force multiplier. I'd rather spend my energy on design decisions than boilerplate.
         </p>
       </td>
       <td width="35%" valign="top">
@@ -45,6 +45,7 @@
           <tr><td align="center">🐚 <b>Terminal</b></td><td>WezTerm</td></tr>
           <tr><td align="center">🎨 <b>Theme</b></td><td>Custom Dark</td></tr>
           <tr><td align="center">🔭 <b>Focus</b></td><td>Rust + GNOME</td></tr>
+          <tr><td align="center">🧠 <b>AI Tools</b></td><td>Claude + Ollama</td></tr>
           <tr><td align="center">📚 <b>Learning</b></td><td>Rust, C++, PHP</td></tr>
         </table>
       </td>
