@@ -29,16 +29,16 @@
     <tr>
       <td width="65%">
         <p>
-          I'm a <strong>BCA student from India</strong>. I got into open source because I like knowing how things work. Still do. I run <strong>Arch Linux</strong> on my laptop with <strong>GNOME</strong> and <strong>WezTerm</strong>, and I dual boot <strong>Windows</strong> when I need it.
+          I'm a <strong>BCA student from India</strong> who likes taking things apart to see how they work — code included. That's what got me into open source, and I've been hooked since. I run <strong>Arch Linux</strong> with <strong>GNOME</strong> and <strong>WezTerm</strong> on my laptop, and keep <strong>Windows</strong> around for when I need it.
         </p>
         <p>
-          Right now I'm learning <strong>Rust</strong> and building small GNOME apps with it. Also picking up <strong>C++</strong> and <strong>PHP</strong>. For web stuff I use <strong>Three.js</strong>, <strong>Web Audio API</strong>, and plain JS. I like making things that move and react.
+          Learning <strong>Rust</strong> right now and messing around with GNOME apps. Also dabbling in <strong>C++</strong> and <strong>PHP</strong>. On the web side I use <strong>Three.js</strong>, <strong>Web Audio</strong>, and vanilla JS — I like making stuff that actually feels interactive.
         </p>
         <p>
-          I use <strong>Claude (Anthropic)</strong> a lot while coding. Helps me plan things out, refactor, and catch mistakes. I also run <strong>Ollama</strong> locally for offline experiments. AI helps me move faster, but I still make the decisions.
+          <strong>Claude</strong> helps me code every day. Good for planning, bouncing ideas, catching stupid bugs before I run into them. I also run <strong>Ollama</strong> locally when I want to experiment without internet. AI's a tool, not a replacement — I still call the shots.
         </p>
         <p>
-          Outside of code, I spend way too much time customizing my Linux setup, watching anime, and reading manga. I collect manga too, and I like building anime-themed websites and apps. I also game a bit and want to get into gamedev someday.
+          When I'm not coding, I'm probably tweaking my desktop setup, watching anime, or reading manga. I collect manga too. I make anime-themed websites and apps for fun, game a bit, and eventually wanna learn gamedev.
         </p>
       </td>
       <td width="35%" valign="top">
