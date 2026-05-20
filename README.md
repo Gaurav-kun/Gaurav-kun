@@ -9,7 +9,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <code>BCA Student · Open-Source Developer · India</code>
+      <code>BCA Student ?? Open-Source Developer ?? India</code>
     </td>
   </tr>
 </table>
@@ -21,7 +21,7 @@
 <br/>
 
 <details open>
-  <summary><h2>👨‍💻 About</h2></summary>
+  <summary><h2>??????????? About</h2></summary>
 
   <br/>
 
@@ -29,23 +29,23 @@
     <tr>
       <td width="65%">
         <p>
-          I'm a <strong>BCA student from India</strong> and a strong believer in open-source software. My goal is to build and share the best open-source features I can — tools and experiences that people actually enjoy using.
+          I'm a <strong>BCA student from India</strong> and a strong believer in open-source software. My goal is to build and share the best open-source features I can ??? tools and experiences that people actually enjoy using.
         </p>
         <p>
           I develop across <strong>Linux</strong> and <strong>Windows</strong>, currently building <strong>Rust-based applications</strong> on <strong>GNOME</strong>. Active learning stack: <strong>Rust</strong>, <strong>C++</strong>, <strong>PHP</strong>.
         </p>
         <p>
-          In my public work, I build data-driven web experiences — from <strong>Three.js 3D scenes</strong> and <strong>Web Audio API soundscapes</strong> to <strong>particle systems</strong> and <strong>scroll-powered storytelling</strong>.
+          In my public work, I build data-driven web experiences ??? from <strong>Three.js 3D scenes</strong> and <strong>Web Audio API soundscapes</strong> to <strong>particle systems</strong> and <strong>scroll-powered storytelling</strong>.
         </p>
       </td>
       <td width="35%" valign="top">
         <table>
-          <tr><td align="center">🌍 <b>Location</b></td><td>India</td></tr>
-          <tr><td align="center">🖥️ <b>OS</b></td><td>Arch Linux / Windows</td></tr>
-          <tr><td align="center">🐚 <b>Terminal</b></td><td>WezTerm</td></tr>
-          <tr><td align="center">🎨 <b>Theme</b></td><td>Custom Dark</td></tr>
-          <tr><td align="center">🔭 <b>Focus</b></td><td>Rust + GNOME</td></tr>
-          <tr><td align="center">📚 <b>Learning</b></td><td>Rust, C++, PHP</td></tr>
+          <tr><td align="center">???? <b>Location</b></td><td>India</td></tr>
+          <tr><td align="center">??????? <b>OS</b></td><td>Arch Linux / Windows</td></tr>
+          <tr><td align="center">???? <b>Terminal</b></td><td>WezTerm</td></tr>
+          <tr><td align="center">???? <b>Theme</b></td><td>Custom Dark</td></tr>
+          <tr><td align="center">???? <b>Focus</b></td><td>Rust + GNOME</td></tr>
+          <tr><td align="center">???? <b>Learning</b></td><td>Rust, C++, PHP</td></tr>
         </table>
       </td>
     </tr>
@@ -53,8 +53,8 @@
 
 </details>
 
-<details>
-  <summary><h2>🛠️ Skills & Tools</h2></summary>
+<details open>
+  <summary><h2>??????? Skills & Tools</h2></summary>
 
   <br/>
 
@@ -76,8 +76,8 @@
 
 <br/>
 
-<details>
-  <summary><h2>🚀 Projects</h2></summary>
+<details open>
+  <summary><h2>???? Projects</h2></summary>
 
   <br/>
 
@@ -100,7 +100,7 @@
           </a>
         </p>
         <p>
-          A hand-curated interactive catalog of <strong>100+ anime</strong>, <strong>100+ manga</strong>, and <strong>35+ manhwa</strong> — built with zero frameworks.
+          A hand-curated interactive catalog of <strong>100+ anime</strong>, <strong>100+ manga</strong>, and <strong>35+ manhwa</strong> ??? built with zero frameworks.
         </p>
         <ul>
           <li>Three.js 3D katana scene with motion</li>
@@ -108,11 +108,11 @@
           <li>Real-time search / filter / sort by genre, rating & year</li>
           <li>Dawn / Night theme toggle</li>
           <li>Progress tracker with LocalStorage</li>
-          <li>Web Audio API — synthesized soundscapes</li>
+          <li>Web Audio API ??? synthesized soundscapes</li>
           <li>Scroll-progress sword bar & ink-blot loading</li>
           <li>Daily picks & keyboard shortcuts</li>
-          <li>Fully responsive — mobile to desktop</li>
-          <li><strong>~2,500+ lines JS</strong> · <strong>~1,800+ lines CSS</strong></li>
+          <li>Fully responsive ??? mobile to desktop</li>
+          <li><strong>~2,500+ lines JS</strong> ?? <strong>~1,800+ lines CSS</strong></li>
         </ul>
         <p align="center"><em>"Zero frameworks. Zero build tools."</em></p>
       </td>
@@ -127,16 +127,16 @@
         </p>
         <p><em>(Private repo)</em></p>
         <p>
-          A meticulously crafted <strong>Arch Linux GNOME 50.1</strong> environment — <strong>1,000+ packages</strong>, full dotfiles across <strong>20+ applications</strong>, and a one-command restore system. Dark themed from boot splash to browser.
+          A meticulously crafted <strong>Arch Linux GNOME 50.1</strong> environment ??? <strong>1,000+ packages</strong>, full dotfiles across <strong>20+ applications</strong>, and a one-command restore system. Dark themed from boot splash to browser.
         </p>
         <ul>
-          <li><strong>1001+ packages</strong> — official, AUR, and Flatpak</li>
-          <li>Full <strong>dconf</strong> dump — GNOME settings, extensions, keybindings</li>
-          <li>WezTerm · Neovim · GTK · Fastfetch · Oh My Posh · Zsh</li>
-          <li>Btop · Rofi · Wlogout · Spicetify · Firefox</li>
-          <li>One-command restore — full system recreation</li>
+          <li><strong>1001+ packages</strong> ??? official, AUR, and Flatpak</li>
+          <li>Full <strong>dconf</strong> dump ??? GNOME settings, extensions, keybindings</li>
+          <li>WezTerm ?? Neovim ?? GTK ?? Fastfetch ?? Oh My Posh ?? Zsh</li>
+          <li>Btop ?? Rofi ?? Wlogout ?? Spicetify ?? Firefox</li>
+          <li>One-command restore ??? full system recreation</li>
           <li>Custom boot splash + anime fastfetch logos</li>
-          <li>Hardware: Lenovo IdeaPad S340 · Intel i3-8145U · 4GB RAM</li>
+          <li>Hardware: Lenovo IdeaPad S340 ?? Intel i3-8145U ?? 4GB RAM</li>
         </ul>
         <p align="center"><em>"Every config intentional. Every detail version-controlled."</em></p>
       </td>
@@ -153,7 +153,7 @@
             <img src="https://img.shields.io/badge/Source%20Code-c8a032?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </p>
-        <p>A sleek, plug-and-play frontend chat interface — early work (Nov 2023).</p>
+        <p>A sleek, plug-and-play frontend chat interface ??? early work (Nov 2023).</p>
         <ul>
           <li>Message sending with plum-colored chat bubbles</li>
           <li>Image capture & upload via camera input</li>
@@ -181,8 +181,8 @@
 
 <br/>
 
-<details>
-  <summary><h2>📬 Connect</h2></summary>
+<details open>
+  <summary><h2>???? Connect</h2></summary>
 
   <br/>
 
@@ -202,8 +202,8 @@
 
 <br/>
 
-<details open>
-  <summary><h2>📊 GitHub Statistics</h2></summary>
+<details>
+  <summary><h2>???? GitHub Statistics</h2></summary>
 
   <br/>
 
@@ -260,7 +260,7 @@
     <img src="https://raw.githubusercontent.com/Gaurav-kun/Gaurav-kun/output/snake.svg" alt="Snake animation" />
   </p>
   <p align="center">
-    <em>Auto-generated daily via GitHub Actions — <a href=".github/workflows/snake.yml">workflow</a></em>
+    <em>Auto-generated daily via GitHub Actions ??? <a href=".github/workflows/snake.yml">workflow</a></em>
   </p>
 </details>
 
