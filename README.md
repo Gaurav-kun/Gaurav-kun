@@ -157,7 +157,7 @@
             <img src="https://img.shields.io/badge/Source%20Code-c8a032?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </p>
-        <p>A sleek, plug-and-play frontend chat interface — early work (Nov 2023).</p>
+        <p>My first ever project — built when I was just starting out (Nov 2023). Nothing fancy, but it's where I learned the basics.</p>
         <ul>
           <li>Message sending with plum-colored chat bubbles</li>
           <li>Image capture & upload via camera input</li>
