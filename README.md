@@ -6,9 +6,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CC1433&center=true&vCenter=true&width=620&lines=Building+on+Linux+%26+Windows;C+%E2%80%A2+C%2B%2B+%E2%80%A2+Rust+%E2%80%A2+Lua+%E2%80%A2+JS;Rust-based+apps+on+GNOME;Open-source+believer+%26+contributor;%F0%9F%94%A5+Currently+learning+Rust%2C+C%2B%2B%2C+PHP" alt="Typing SVG" />
 </p>
 
-```text
-BCA Student · Open-Source Developer · India
-```
+<table align="center">
+  <tr>
+    <td align="center">
+      <code>BCA Student · Open-Source Developer · India</code>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gaurav-kun/gif-terminal/main/output.gif" alt="Terminal GIF" width="100%"/>
@@ -41,7 +45,7 @@ In my public work, I build data-driven web experiences — from **Three.js 3D sc
 </tr>
 <tr>
 <td align="center">🐚 <strong>Terminal</strong></td>
-<td>Kitty</td>
+<td>WezTerm</td>
 <td align="center">🎨 <strong>Theme</strong></td>
 <td>Custom Dark</td>
 </tr>
@@ -77,7 +81,7 @@ In my public work, I build data-driven web experiences — from **Three.js 3D sc
       <ul>
         <li>🗄️ <strong>1001+ packages</strong> — official, AUR, and Flatpak</li>
         <li>⚙️ Full <strong>dconf</strong> dump — GNOME settings, extensions, keybindings</li>
-        <li>🎨 <strong>Kitty</strong> · <strong>Neovim</strong> · <strong>GTK</strong> · <strong>Fastfetch</strong> · <strong>Oh My Posh</strong> · <strong>Zsh</strong></li>
+        <li>🎨 <strong>WezTerm</strong> · <strong>Neovim</strong> · <strong>GTK</strong> · <strong>Fastfetch</strong> · <strong>Oh My Posh</strong> · <strong>Zsh</strong></li>
         <li>🖥️ <strong>Btop</strong> · <strong>Rofi</strong> · <strong>Wlogout</strong> · <strong>Spicetify</strong> · <strong>Firefox</strong></li>
         <li>🔄 One-command restore — full system recreation</li>
         <li>🖼️ Custom boot splash + anime fastfetch logos</li>
@@ -155,7 +159,7 @@ In my public work, I build data-driven web experiences — from **Three.js 3D sc
       <p>
         Actively building <strong>Rust-based GNOME applications</strong> and deepening my systems programming skills. Exploring C++ for performant tooling and PHP for web backend work. Every project is a step toward better open-source tooling.
       </p>
-      <br/><br/><br/>
+
     </td>
   </tr>
 </table>
@@ -166,7 +170,7 @@ In my public work, I build data-driven web experiences — from **Three.js 3D sc
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,js,lua,python,php,html,css,threejs,blender,figma,ps,ae,lightroom,git,github,bash,arch,windows,kitty&perline=11" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,js,lua,python,php,html,css,threejs,blender,figma,ps,ae,lightroom,git,github,bash,arch,windows,neovim&perline=11" />
   </a>
 </p>
 
@@ -186,6 +190,17 @@ In my public work, I build data-driven web experiences — from **Three.js 3D sc
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav-kun&bg_color=0d1117&color=cc1433&line=cc1433&point=c8a032&area=true&hide_border=true&radius=10" width="96%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaurav-kun&theme=dark" width="96%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gaurav-kun&theme=dark" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gaurav-kun&theme=dark&utcOffset=8" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaurav-kun&theme=dark" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gaurav-kun&theme=dark" height="170" />
 </p>
 
 ---
@@ -223,6 +238,10 @@ In my public work, I build data-driven web experiences — from **Three.js 3D sc
 </details>
 
 ---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="96%" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Gaurav-kun&color=cc1433&style=flat-square&label=Profile+Visitors" />
