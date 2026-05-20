@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Gaurav%20Saikia&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Arch%20Linux%20%E2%80%A2%20Open-Source%20Contributor&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Gaurav%20Saikia&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Open-Source%20Developer&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CC1433&center=true&vCenter=true&width=600&lines=Arch+Linux+%E2%80%A2+GNOME;Open-source+contributor;C+%E2%80%A2+C%2B%2B+%E2%80%A2+Rust+%E2%80%A2+Lua;Building+with+intention+and+craft;%F0%9F%94%A5+Currently+learning+Python%2C+SQL%2C+PHP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CC1433&center=true&vCenter=true&width=600&lines=Building+on+Linux+%26+Windows;Open-source+contributor;C+%E2%80%A2+C%2B%2B+%E2%80%A2+Rust+%E2%80%A2+Lua;Building+with+intention+and+craft;%F0%9F%94%A5+Currently+learning+Rust%2C+C%2B%2B%2C+PHP" alt="Typing SVG" />
 </p>
 
 ```text
-Software Developer · Open-Source · Arch Linux
+Software Developer · Open-Source
 ```
 
 ---
@@ -17,9 +17,9 @@ Software Developer · Open-Source · Arch Linux
   About Me
 </h2>
 
-I'm a **BCA student from India** and a strong believer in open-source software. My goal is to build and share the best open-source features I can — tools and experiences that people actually enjoy using. I run **Arch Linux** with **GNOME**, use **Kitty** as my terminal, and code in **C, C++, Rust, Lua, and JavaScript**.
+I'm a **BCA student from India** and a strong believer in open-source software. My goal is to build and share the best open-source features I can — tools and experiences that people actually enjoy using. I develop across **Linux** and **Windows**, and I'm currently building **Rust-based apps** on **GNOME**. Active learning stack: **Rust**, **C++**, **PHP**.
 
-I'm currently working on a **private open-source project** — building something substantial that I'll share when it's ready. In my public work, I build data-driven web experiences — from **Three.js 3D scenes** and **Web Audio API soundscapes** to **particle systems** and **scroll-powered storytelling**.
+I'm working on a **private open-source project** — something substantial I'll share when it's ready. In my public work, I build data-driven web experiences — from **Three.js 3D scenes** and **Web Audio API soundscapes** to **particle systems** and **scroll-powered storytelling**.
 
 ---
 
@@ -30,7 +30,7 @@ I'm currently working on a **private open-source project** — building somethin
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,js,lua,python,html,css,threejs,blender,figma,ps,ae,lightroom,arch,kitty&perline=9" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,js,lua,python,php,html,css,threejs,blender,figma,ps,ae,lightroom,git,github,bash,arch,windows,kitty&perline=11" />
   </a>
 </p>
 
