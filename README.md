@@ -1,32 +1,154 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Gaurav%20Saikia&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Open-Source%20Developer&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Gaurav%20Saikia&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Open-Source%20Developer&descAlignY=55&descSize=22" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CC1433&center=true&vCenter=true&width=600&lines=Building+on+Linux+%26+Windows;Open-source+contributor;C+%E2%80%A2+C%2B%2B+%E2%80%A2+Rust+%E2%80%A2+Lua;Building+with+intention+and+craft;%F0%9F%94%A5+Currently+learning+Rust%2C+C%2B%2B%2C+PHP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CC1433&center=true&vCenter=true&width=620&lines=Building+on+Linux+%26+Windows;C+%E2%80%A2+C%2B%2B+%E2%80%A2+Rust+%E2%80%A2+Lua+%E2%80%A2+JS;Rust-based+apps+on+GNOME;Open-source+believer+%26+contributor;%F0%9F%94%A5+Currently+learning+Rust%2C+C%2B%2B%2C+PHP" alt="Typing SVG" />
 </p>
 
 ```text
-Software Developer · Open-Source
+BCA Student · Open-Source Developer · India
 ```
 
 ---
 
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" />
-  About Me
-</h2>
+## 👨‍💻 About Me
 
-I'm a **BCA student from India** and a strong believer in open-source software. My goal is to build and share the best open-source features I can — tools and experiences that people actually enjoy using. I develop across **Linux** and **Windows**, and I'm currently building **Rust-based apps** on **GNOME**. Active learning stack: **Rust**, **C++**, **PHP**.
+I'm a **BCA student from India** and a strong believer in open-source software. My goal is to build and share the best open-source features I can — tools and experiences that people actually enjoy using.
+
+I develop across **Linux** and **Windows**, currently building **Rust-based applications** on **GNOME**. Active learning stack: **Rust**, **C++**, **PHP**.
 
 I'm working on a **private open-source project** — something substantial I'll share when it's ready. In my public work, I build data-driven web experiences — from **Three.js 3D scenes** and **Web Audio API soundscapes** to **particle systems** and **scroll-powered storytelling**.
 
+<table>
+<tr>
+<td align="center">🌍 <strong>Location</strong></td>
+<td>India</td>
+<td align="center">🖥️ <strong>OS</strong></td>
+<td>Arch Linux / Windows</td>
+</tr>
+<tr>
+<td align="center">🐚 <strong>Terminal</strong></td>
+<td>Kitty</td>
+<td align="center">🎨 <strong>Theme</strong></td>
+<td>Catppuccin Mocha Peach</td>
+</tr>
+<tr>
+<td align="center">🔭 <strong>Focus</strong></td>
+<td>Rust + GNOME</td>
+<td align="center">📚 <strong>Learning</strong></td>
+<td>Rust, C++, PHP</td>
+</tr>
+</table>
+
 ---
 
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" />
-  Languages & Tools
-</h2>
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🎨 Arch Linux Design</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Shell-5391FE?style=flat-square&logo=gnu-bash&logoColor=white" />
+        <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Gaurav-kun/gauravarch-rice" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-c8a032?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        A complete <strong>Arch Linux GNOME 50.1</strong> ricing backup — <strong>1,000+ packages</strong>, full dotfiles for <strong>20+ applications</strong>, and a one-command restore script. Theme: <strong>Catppuccin Mocha Peach</strong> (#201E20 / #CEB798 / #fab387).
+      </p>
+      <ul>
+        <li>🗄️ <strong>1001+ official packages</strong> + AUR + Flatpak</li>
+        <li>⚙️ Full <strong>dconf</strong> dump — GNOME settings, extensions, keybindings</li>
+        <li>🎨 <strong>Kitty</strong> · <strong>Neovim</strong> · <strong>GTK</strong> · <strong>Fastfetch</strong> · <strong>Oh My Posh</strong> · <strong>Zsh</strong></li>
+        <li>🖥️ <strong>Btop</strong> · <strong>Rofi</strong> · <strong>Wlogout</strong> · <strong>Spicetify</strong> · <strong>Firefox</strong> · <strong>Bat</strong></li>
+        <li>🔄 One-command <strong>restore.sh</strong> — full system recreation</li>
+        <li>🖼️ Anime/Vagabond fastfetch logos + peach boot splash</li>
+        <li>🐚 Hardware: Lenovo IdeaPad S340 · Intel i3-8145U · 4GB RAM</li>
+      </ul>
+      <p align="center"><em>"Full Arch GNOME environment, version-controlled and reproducible."</em></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚔️ My AniManga Archive</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://gaurav-kun.github.io/animanga-archive/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-cc1433?style=for-the-badge&logo=githubpages&logoColor=white" />
+        </a>
+        <a href="https://github.com/Gaurav-kun/animanga-archive" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-c8a032?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        A hand-curated interactive catalog of <strong>100+ anime</strong>, <strong>100+ manga</strong>, and <strong>35+ manhwa</strong> entries — built with zero frameworks.
+      </p>
+      <ul>
+        <li>🗡️ <strong>Three.js 3D katana</strong> scene with motion</li>
+        <li>🌫️ Kanji fog, golden rain & ember particle systems</li>
+        <li>🔍 Real-time search / filter / sort by genre, rating & year</li>
+        <li>🌅 <strong>Dawn / Night</strong> theme toggle</li>
+        <li>📚 Progress tracker with <strong>LocalStorage</strong></li>
+        <li>🎵 <strong>Web Audio API</strong> — synthesized soundscapes</li>
+        <li>📜 Scroll-progress sword bar & ink-blot loading</li>
+        <li>🎯 Daily picks & keyboard shortcuts</li>
+        <li>📱 Fully responsive — mobile to desktop</li>
+        <li><strong>~2,500+ lines JS</strong> · <strong>~1,800+ lines CSS</strong></li>
+      </ul>
+      <p align="center"><em>"Zero frameworks. Zero build tools. Just craft."</em></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💬 ChatPlex</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Gaurav-kun/ChatPlex" target="_blank">
+          <img src="https://img.shields.io/badge/Source%20Code-c8a032?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p>
+        A sleek, plug-and-play frontend chat interface — early work (Nov 2023) showcasing the foundation before the leap into animanga-archive's complexity.
+      </p>
+      <ul>
+        <li>💬 Message sending with plum-colored chat bubbles</li>
+        <li>📸 Image capture & upload via camera input</li>
+        <li>👤 Name prompt with <strong>LocalStorage</strong> persistence</li>
+        <li>📜 Scroll-based navbar transparency effect</li>
+        <li>🎨 Teal/cyan accent theme with animated color-changing title</li>
+        <li>📧 Responsive footer with newsletter signup</li>
+        <li>📞 Phone/video call link integration</li>
+        <li>🗺️ Google Maps embed & social media icons</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔒 Private Project</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Building-cc1433?style=flat-square" />
+      </p>
+      <p>
+        Currently working on a substantial <strong>open-source project</strong> that combines systems programming with delightful user experiences. More details coming soon.
+      </p>
+      <br/><br/><br/><br/><br/><br/><br/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Languages & Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -36,10 +158,7 @@ I'm working on a **private open-source project** — something substantial I'll 
 
 ---
 
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" height="30" />
-  GitHub Analytics
-</h2>
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-kun&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=c9d1d9&icon_color=cc1433&title_color=cc1433&border_radius=10" height="170" />
@@ -57,73 +176,23 @@ I'm working on a **private open-source project** — something substantial I'll 
 
 ---
 
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20File%20Folder.png" alt="Projects" width="30" height="30" />
-  Featured Projects
-</h2>
+## 📬 Connect
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">⚔️ My AniManga Archive</h3>
-      <p align="center">
-        <a href="https://gaurav-kun.github.io/animanga-archive/" target="_blank">
-          <img src="https://img.shields.io/badge/Live%20Demo-cc1433?style=for-the-badge&logo=githubpages&logoColor=white" />
-        </a>
-        <a href="https://github.com/Gaurav-kun/animanga-archive" target="_blank">
-          <img src="https://img.shields.io/badge/Source%20Code-c8a032?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
-      </p>
-      <p>
-        A hand-curated interactive catalog of <strong>100+ anime</strong>, <strong>100+ manga</strong>, and <strong>35+ manhwa</strong> entries — a personal catalog of curated taste, built with zero frameworks.
-      </p>
-      <ul>
-        <li>🗡️ <strong>Three.js 3D katana</strong> scene with motion</li>
-        <li>🌫️ Kanji fog, golden rain & ember particle systems</li>
-        <li>🔍 Real-time search / filter / sort by genre, rating & year</li>
-        <li>🌅 <strong>Dawn / Night</strong> theme toggle</li>
-        <li>📚 Progress tracker (Want/Watching/Done/Dropped) with <strong>LocalStorage</strong></li>
-        <li>🎵 <strong>Web Audio API</strong> — synthesized sword swings, heart chimes & dojo toggles</li>
-        <li>📜 Scroll-progress sword bar & ink-blot loading animation</li>
-        <li>🎯 Daily picks, random pick & keyboard shortcuts (<code>1/2/3</code>, <code>D</code>, <code>F</code>, <code>M</code>, <code>?</code>, <code>Esc</code>)</li>
-        <li>📱 Fully responsive — mobile to desktop</li>
-        <li><strong>~2,500+ lines JS</strong> · <strong>~1,800+ lines CSS</strong> · <strong>300+ database entries</strong></li>
-      </ul>
-      <p align="center"><em>"Zero frameworks. Zero build tools. Just craft."</em></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">💬 ChatPlex</h3>
-      <p align="center">
-        <a href="https://github.com/Gaurav-kun/ChatPlex" target="_blank">
-          <img src="https://img.shields.io/badge/Source%20Code-c8a032?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      </p>
-      <p>
-        A sleek, plug-and-play frontend chat interface — early work (Nov 2023) showcasing the foundation before the leap into animanga-archive's complexity.
-      </p>
-      <ul>
-        <li>💬 Message sending with plum-colored chat bubbles</li>
-        <li>📸 Image capture & upload via camera input</li>
-        <li>👤 Name prompt with <strong>LocalStorage</strong> persistence</li>
-        <li>📜 Scroll-based navbar transparency effect</li>
-        <li>🎨 Teal/cyan accent theme with animated color-changing title</li>
-        <li>📧 Responsive footer with newsletter signup</li>
-        <li>📞 Phone/video call link integration</li>
-        <li>🗺️ Google Maps embed & social media icons</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="mailto:saikiag459@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-cc1433?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gaurav-kun.github.io/animanga-archive/Brief_Intro.html">
+    <img src="https://img.shields.io/badge/Portfolio%20Intro-c8a032?style=for-the-badge&logo=aboutdotme&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Gaurav-kun">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
 
 <details>
   <summary>
@@ -141,23 +210,6 @@ I'm working on a **private open-source project** — something substantial I'll 
     <small>Auto-generated daily via GitHub Actions — <a href=".github/workflows/snake.yml">workflow</a></small></em>
   </p>
 </details>
-
----
-
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Connect" width="30" height="30" />
-  Connect
-</h2>
-
-<p align="center">
-  <a href="mailto:saikiag459@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-cc1433?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://gaurav-kun.github.io/animanga-archive/Brief_Intro.html">
-    <img src="https://img.shields.io/badge/Portfolio%20Intro-c8a032?style=for-the-badge&logo=aboutdotme&logoColor=white" />
-  </a>
-</p>
 
 ---
 
