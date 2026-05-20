@@ -31,7 +31,7 @@ I'm working on a **private open-source project** — something substantial I'll 
 <td align="center">🐚 <strong>Terminal</strong></td>
 <td>Kitty</td>
 <td align="center">🎨 <strong>Theme</strong></td>
-<td>Catppuccin Mocha Peach</td>
+<td>Custom Dark</td>
 </tr>
 <tr>
 <td align="center">🔭 <strong>Focus</strong></td>
@@ -48,30 +48,26 @@ I'm working on a **private open-source project** — something substantial I'll 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎨 Arch Linux Design</h3>
+      <h3 align="center">🎨 Arch Linux Environment</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Shell-5391FE?style=flat-square&logo=gnu-bash&logoColor=white" />
         <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Gaurav-kun/gauravarch-rice" target="_blank">
-          <img src="https://img.shields.io/badge/Source%20Code-c8a032?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
+        <img src="https://img.shields.io/badge/GTK-4A86CF?style=flat-square&logo=gtk&logoColor=white" />
+        <img src="https://img.shields.io/badge/GNOME-4A86CF?style=flat-square&logo=gnome&logoColor=white" />
       </p>
       <p>
-        A complete <strong>Arch Linux GNOME 50.1</strong> ricing backup — <strong>1,000+ packages</strong>, full dotfiles for <strong>20+ applications</strong>, and a one-command restore script. Theme: <strong>Catppuccin Mocha Peach</strong> (#201E20 / #CEB798 / #fab387).
+        A meticulously crafted <strong>Arch Linux GNOME 50.1</strong> environment — <strong>1,000+ packages</strong>, full dotfiles across <strong>20+ applications</strong>, and a one-command restore system. Dark themed from boot splash to browser.
       </p>
       <ul>
-        <li>🗄️ <strong>1001+ official packages</strong> + AUR + Flatpak</li>
+        <li>🗄️ <strong>1001+ packages</strong> — official, AUR, and Flatpak</li>
         <li>⚙️ Full <strong>dconf</strong> dump — GNOME settings, extensions, keybindings</li>
         <li>🎨 <strong>Kitty</strong> · <strong>Neovim</strong> · <strong>GTK</strong> · <strong>Fastfetch</strong> · <strong>Oh My Posh</strong> · <strong>Zsh</strong></li>
-        <li>🖥️ <strong>Btop</strong> · <strong>Rofi</strong> · <strong>Wlogout</strong> · <strong>Spicetify</strong> · <strong>Firefox</strong> · <strong>Bat</strong></li>
-        <li>🔄 One-command <strong>restore.sh</strong> — full system recreation</li>
-        <li>🖼️ Anime/Vagabond fastfetch logos + peach boot splash</li>
+        <li>🖥️ <strong>Btop</strong> · <strong>Rofi</strong> · <strong>Wlogout</strong> · <strong>Spicetify</strong> · <strong>Firefox</strong></li>
+        <li>🔄 One-command restore — full system recreation</li>
+        <li>🖼️ Custom boot splash + anime fastfetch logos</li>
         <li>🐚 Hardware: Lenovo IdeaPad S340 · Intel i3-8145U · 4GB RAM</li>
       </ul>
-      <p align="center"><em>"Full Arch GNOME environment, version-controlled and reproducible."</em></p>
+      <p align="center"><em>"Every config intentional. Every detail version-controlled."</em></p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">⚔️ My AniManga Archive</h3>
@@ -134,14 +130,16 @@ I'm working on a **private open-source project** — something substantial I'll 
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔒 Private Project</h3>
+      <h3 align="center">🧰 Currently Building</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-Building-cc1433?style=flat-square" />
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
       </p>
       <p>
-        Currently working on a substantial <strong>open-source project</strong> that combines systems programming with delightful user experiences. More details coming soon.
+        Actively building <strong>Rust-based GNOME applications</strong> and deepening my systems programming skills. Exploring C++ for performant tooling and PHP for web backend work. Every project is a step toward better open-source tooling.
       </p>
-      <br/><br/><br/><br/><br/><br/><br/>
+      <br/><br/><br/>
     </td>
   </tr>
 </table>
