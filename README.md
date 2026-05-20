@@ -192,10 +192,7 @@ In my public work, I build data-driven web experiences — from **Three.js 3D sc
   <a href="mailto:saikiag459@gmail.com">
     <img src="https://img.shields.io/badge/Email%20Me-cc1433?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://gaurav-kun.github.io/animanga-archive/Brief_Intro.html">
-    <img src="https://img.shields.io/badge/Portfolio%20Intro-c8a032?style=for-the-badge&logo=aboutdotme&logoColor=white" />
-  </a>
+
   &nbsp;&nbsp;
   <a href="https://github.com/Gaurav-kun">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" />
