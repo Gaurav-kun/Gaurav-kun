@@ -29,13 +29,16 @@
     <tr>
       <td width="65%">
         <p>
-          I'm a <strong>BCA student from India</strong> who's been obsessed with open-source since day one. I don't just use it — I genuinely believe in it. The idea that anyone can look at, modify, and share software is what got me into this, and it's still what keeps me going.
+          I'm a <strong>BCA student from India</strong>. I got into open source because I like knowing how things work. Still do. I run <strong>Arch Linux</strong> on my laptop with <strong>GNOME</strong> and <strong>WezTerm</strong>, and I dual boot <strong>Windows</strong> when I need it.
         </p>
         <p>
-          I build across <strong>Linux</strong> and <strong>Windows</strong> — currently knee-deep in <strong>Rust</strong> on <strong>GNOME</strong>, also picking up <strong>C++</strong> and <strong>PHP</strong> along the way. On the web side, I make <strong>Three.js</strong> scenes, <strong>Web Audio</strong> soundscapes, particle systems, and scroll-driven storytelling — things that feel alive.
+          Right now I'm learning <strong>Rust</strong> and building small GNOME apps with it. Also picking up <strong>C++</strong> and <strong>PHP</strong>. For web stuff I use <strong>Three.js</strong>, <strong>Web Audio API</strong>, and plain JS. I like making things that move and react.
         </p>
         <p>
-          I lean heavily on <strong>Claude (Anthropic)</strong> as my daily coding copilot — it helps me think through architecture, refactor messy code, and occasionally tells me when I'm overcomplicating things. I also run <strong>Ollama</strong> locally for quick experiments and offline tinkering. AI's not a crutch for me — it's a force multiplier. I'd rather spend my energy on design decisions than boilerplate.
+          I use <strong>Claude (Anthropic)</strong> a lot while coding. Helps me plan things out, refactor, and catch mistakes. I also run <strong>Ollama</strong> locally for offline experiments. AI helps me move faster, but I still make the decisions.
+        </p>
+        <p>
+          Outside of code, I spend way too much time customizing my Linux setup, watching anime, and reading manga. I like things that look good and work well. I don't like bloated software, dark patterns, or landing pages that take 10 seconds to load.
         </p>
       </td>
       <td width="35%" valign="top">
