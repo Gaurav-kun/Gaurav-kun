@@ -1,29 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Gaurav%20Saikia&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Night%20Dojo%20%7C%20Open-Source%20Developer&descAlignY=55&descSize=22" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Gaurav%20Saikia&fontSize=65&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Open-Source%20Developer&descAlignY=55&descSize=22" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CC1433&center=true&vCenter=true&width=700&lines=Building+on+Linux+%26+Windows;C+%E2%80%A2+C%2B%2B+%E2%80%A2+Rust+%E2%80%A2+Lua+%E2%80%A2+JS;Rust+apps+on+GNOME+%E2%80%A2+Three.js+scenes;Open-source+believer+%26+contributor;%22Every+config+intentional%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CC1433&center=true&vCenter=true&width=700&lines=Building+on+Linux+%26+Windows;C+%E2%80%A2+C%2B%2B+%E2%80%A2+Rust+%E2%80%A2+Lua+%E2%80%A2+JS;Rust+apps+on+GNOME+%E2%80%A2+Three.js+scenes;Open-source+believer+%26+contributor" alt="Typing SVG" />
 </p>
 
-<pre align="center">
-  _   _  ___   _____   ___   _   __   ___     _    _   ___  
- | \ | |/ _ \ / __\ \ / / \ | |/  \ / _ \   | |  | | / _ \ 
- |  \| | | | |\__ \\ V /|  \| | () | (_) |  | |__| || (_) |
- | |\  | |_| |/ __/ | | | |\  |\__/ \__, |  |  __  | \__, |
- |_| \_| \___/|_____||_| |_| \_|     /_(_|  |_|  |_|   /_/ 
-</pre>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/WezTerm-000000?style=flat-square&logo=wezterm&logoColor=white" />
-  <img src="https://img.shields.io/badge/GNOME-4A86CF?style=flat-square&logo=gnome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/India-FF9933?style=flat-square&logo=india&logoColor=white" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <code>BCA Student · Open-Source Developer · India</code>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Gaurav-kun/gif-terminal/main/output.gif" alt="Terminal GIF" width="100%"/>
@@ -32,13 +21,13 @@
 <br/>
 
 <details open>
-  <summary><h2>⚔️ About the Ronin</h2></summary>
+  <summary><h2>👨‍💻 About</h2></summary>
 
   <br/>
 
   <table>
     <tr>
-      <td width="60%">
+      <td width="65%">
         <p>
           I'm a <strong>BCA student from India</strong> and a strong believer in open-source software. My goal is to build and share the best open-source features I can — tools and experiences that people actually enjoy using.
         </p>
@@ -49,49 +38,16 @@
           In my public work, I build data-driven web experiences — from <strong>Three.js 3D scenes</strong> and <strong>Web Audio API soundscapes</strong> to <strong>particle systems</strong> and <strong>scroll-powered storytelling</strong>.
         </p>
       </td>
-      <td width="40%" valign="top">
+      <td width="35%" valign="top">
         <table>
           <tr><td align="center">🌍 <b>Location</b></td><td>India</td></tr>
           <tr><td align="center">🖥️ <b>OS</b></td><td>Arch Linux / Windows</td></tr>
           <tr><td align="center">🐚 <b>Terminal</b></td><td>WezTerm</td></tr>
-          <tr><td align="center">🎨 <b>Theme</b></td><td>Night Dojo</td></tr>
+          <tr><td align="center">🎨 <b>Theme</b></td><td>Custom Dark</td></tr>
           <tr><td align="center">🔭 <b>Focus</b></td><td>Rust + GNOME</td></tr>
           <tr><td align="center">📚 <b>Learning</b></td><td>Rust, C++, PHP</td></tr>
-          <tr><td align="center">⚡ <b>Status</b></td><td>
-            <img src="https://img.shields.io/badge/Active-cc1433?style=flat-square" />
-          </td></tr>
         </table>
       </td>
-    </tr>
-  </table>
-
-  <h3>📋 Web Dev Learning Roadmap</h3>
-
-  <table>
-    <tr>
-      <td><b>🟦 TypeScript</b></td>
-      <td>typed superset of JS, modern standard</td>
-      <td><code>pending</code></td>
-    </tr>
-    <tr>
-      <td><b>🟦 React</b></td>
-      <td>component-based UI library</td>
-      <td><code>pending</code></td>
-    </tr>
-    <tr>
-      <td><b>🟩 Node.js</b></td>
-      <td>server-side JavaScript runtime</td>
-      <td><code>in progress</code></td>
-    </tr>
-    <tr>
-      <td><b>🟦 Tailwind CSS</b></td>
-      <td>utility-first styling</td>
-      <td><code>pending</code></td>
-    </tr>
-    <tr>
-      <td><b>🟦 PostgreSQL</b></td>
-      <td>relational database for production apps</td>
-      <td><code>pending</code></td>
     </tr>
   </table>
 
@@ -100,7 +56,7 @@
 <br/>
 
 <details open>
-  <summary><h2>📊 Dojo Statistics</h2></summary>
+  <summary><h2>📊 GitHub Statistics</h2></summary>
 
   <br/>
 
@@ -129,12 +85,12 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gaurav-kun&theme=dark" height="155" />
   </p>
 
-  <h3 align="center">🏔️ 3D Contribution Graph</h3>
+  <h3 align="center">3D Contribution Graph</h3>
   <p align="center">
     <img src="https://raw.githubusercontent.com/Gaurav-kun/Gaurav-kun/main/profile-3d-contrib/profile-night-rainbow.svg" width="85%" />
   </p>
 
-  <h3 align="center">📈 Star History</h3>
+  <h3 align="center">Star History</h3>
   <p align="center">
     <a href="https://star-history.com/#Gaurav-kun/animanga-archive&Date">
       <img src="https://api.star-history.com/svg?repos=Gaurav-kun/animanga-archive&type=Date" width="70%" />
@@ -146,7 +102,7 @@
 <br/>
 
 <details>
-  <summary><h2>🛠️ Arsenal</h2></summary>
+  <summary><h2>🛠️ Skills & Tools</h2></summary>
 
   <br/>
 
@@ -164,29 +120,19 @@
     </a>
   </p>
 
-  <h3 align="center">Certifications & Badges</h3>
-  <p align="center">
-    <img src="https://img.shields.io/badge/BCA-Student-cc1433?style=flat-square" />
-    <img src="https://img.shields.io/badge/Linux-User-FCC624?style=flat-square&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/GNOME-Contributor-4A86CF?style=flat-square&logo=gnome&logoColor=white" />
-    <img src="https://img.shields.io/badge/Three.js-Enthusiast-000000?style=flat-square&logo=three.js&logoColor=white" />
-    <img src="https://img.shields.io/badge/Rust-Acolyte-000000?style=flat-square&logo=rust&logoColor=white" />
-    <img src="https://img.shields.io/badge/OSS-Believer-cc1433?style=flat-square" />
-  </p>
-
 </details>
 
 <br/>
 
 <details>
-  <summary><h2>🚀 Quests</h2></summary>
+  <summary><h2>🚀 Projects</h2></summary>
 
   <br/>
 
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">⚔️ My AniManga Archive</h3>
+        <h3 align="center">My AniManga Archive</h3>
         <p align="center">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -205,21 +151,21 @@
           A hand-curated interactive catalog of <strong>100+ anime</strong>, <strong>100+ manga</strong>, and <strong>35+ manhwa</strong> — built with zero frameworks.
         </p>
         <ul>
-          <li>🗡️ <strong>Three.js 3D katana</strong> scene with motion</li>
-          <li>🌫️ Kanji fog, golden rain & ember particle systems</li>
-          <li>🔍 Real-time search / filter / sort by genre, rating & year</li>
-          <li>🌅 <strong>Dawn / Night</strong> theme toggle</li>
-          <li>📚 Progress tracker with <strong>LocalStorage</strong></li>
-          <li>🎵 <strong>Web Audio API</strong> — synthesized soundscapes</li>
-          <li>📜 Scroll-progress sword bar & ink-blot loading</li>
-          <li>🎯 Daily picks & keyboard shortcuts</li>
-          <li>📱 Fully responsive — mobile to desktop</li>
+          <li>Three.js 3D katana scene with motion</li>
+          <li>Kanji fog, golden rain & ember particle systems</li>
+          <li>Real-time search / filter / sort by genre, rating & year</li>
+          <li>Dawn / Night theme toggle</li>
+          <li>Progress tracker with LocalStorage</li>
+          <li>Web Audio API — synthesized soundscapes</li>
+          <li>Scroll-progress sword bar & ink-blot loading</li>
+          <li>Daily picks & keyboard shortcuts</li>
+          <li>Fully responsive — mobile to desktop</li>
           <li><strong>~2,500+ lines JS</strong> · <strong>~1,800+ lines CSS</strong></li>
         </ul>
-        <p align="center"><em>"Zero frameworks. Zero build tools. Just craft."</em></p>
+        <p align="center"><em>"Zero frameworks. Zero build tools."</em></p>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">🎨 Arch Linux Environment</h3>
+        <h3 align="center">Arch Linux Environment</h3>
         <p align="center">
           <img src="https://img.shields.io/badge/Status-Private-cc1433?style=flat-square" />
           <img src="https://img.shields.io/badge/Shell-5391FE?style=flat-square&logo=gnu-bash&logoColor=white" />
@@ -232,20 +178,20 @@
           A meticulously crafted <strong>Arch Linux GNOME 50.1</strong> environment — <strong>1,000+ packages</strong>, full dotfiles across <strong>20+ applications</strong>, and a one-command restore system. Dark themed from boot splash to browser.
         </p>
         <ul>
-          <li>🗄️ <strong>1001+ packages</strong> — official, AUR, and Flatpak</li>
-          <li>⚙️ Full <strong>dconf</strong> dump — GNOME settings, extensions, keybindings</li>
-          <li>🎨 <strong>WezTerm</strong> · <strong>Neovim</strong> · <strong>GTK</strong> · <strong>Fastfetch</strong> · <strong>Oh My Posh</strong> · <strong>Zsh</strong></li>
-          <li>🖥️ <strong>Btop</strong> · <strong>Rofi</strong> · <strong>Wlogout</strong> · <strong>Spicetify</strong> · <strong>Firefox</strong></li>
-          <li>🔄 One-command restore — full system recreation</li>
-          <li>🖼️ Custom boot splash + anime fastfetch logos</li>
-          <li>🐚 Hardware: Lenovo IdeaPad S340 · Intel i3-8145U · 4GB RAM</li>
+          <li><strong>1001+ packages</strong> — official, AUR, and Flatpak</li>
+          <li>Full <strong>dconf</strong> dump — GNOME settings, extensions, keybindings</li>
+          <li>WezTerm · Neovim · GTK · Fastfetch · Oh My Posh · Zsh</li>
+          <li>Btop · Rofi · Wlogout · Spicetify · Firefox</li>
+          <li>One-command restore — full system recreation</li>
+          <li>Custom boot splash + anime fastfetch logos</li>
+          <li>Hardware: Lenovo IdeaPad S340 · Intel i3-8145U · 4GB RAM</li>
         </ul>
         <p align="center"><em>"Every config intentional. Every detail version-controlled."</em></p>
       </td>
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">💬 ChatPlex</h3>
+        <h3 align="center">ChatPlex</h3>
         <p align="center">
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -257,15 +203,15 @@
         </p>
         <p>A sleek, plug-and-play frontend chat interface — early work (Nov 2023).</p>
         <ul>
-          <li>💬 Message sending with plum-colored chat bubbles</li>
-          <li>📸 Image capture & upload via camera input</li>
-          <li>👤 Name prompt with <strong>LocalStorage</strong> persistence</li>
-          <li>📜 Scroll-based navbar transparency effect</li>
-          <li>🎨 Teal/cyan accent theme with animated color-changing title</li>
+          <li>Message sending with plum-colored chat bubbles</li>
+          <li>Image capture & upload via camera input</li>
+          <li>Name prompt with LocalStorage persistence</li>
+          <li>Scroll-based navbar transparency effect</li>
+          <li>Teal/cyan accent theme with animated color-changing title</li>
         </ul>
       </td>
       <td width="50%" valign="top">
-        <h3 align="center">🧰 Currently Building</h3>
+        <h3 align="center">Currently Building</h3>
         <p align="center">
           <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
           <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -273,7 +219,7 @@
           <img src="https://img.shields.io/badge/GNOME-4A86CF?style=flat-square&logo=gnome&logoColor=white" />
         </p>
         <p>
-          Actively building <strong>Rust-based GNOME applications</strong> and deepening my systems programming skills. Exploring C++ for performant tooling and PHP for web backend work. Every project is a step toward better open-source tooling.
+          Actively building <strong>Rust-based GNOME applications</strong> and deepening my systems programming skills. Exploring C++ for performant tooling and PHP for web backend work.
         </p>
       </td>
     </tr>
@@ -300,11 +246,6 @@
     </a>
   </p>
 
-  <p align="center">
-    <i>"The way of the warrior is the resolute acceptance of death."</i><br/>
-    <strong>— Miyamoto Musashi</strong>
-  </p>
-
 </details>
 
 <br/>
@@ -321,8 +262,7 @@
     <img src="https://raw.githubusercontent.com/Gaurav-kun/Gaurav-kun/output/snake.svg" alt="Snake animation" />
   </p>
   <p align="center">
-    <em>🐍 A snake that gobbles up your contributions!<br/>
-    <small>Auto-generated daily via GitHub Actions — <a href=".github/workflows/snake.yml">workflow</a></small></em>
+    <em>Auto-generated daily via GitHub Actions — <a href=".github/workflows/snake.yml">workflow</a></em>
   </p>
 </details>
 
@@ -333,14 +273,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Live%20Status-Online-cc1433?style=flat-square" />
   <img src="https://img.shields.io/github/last-commit/Gaurav-kun/Gaurav-kun?style=flat-square&color=cc1433&label=Profile%20Updated" />
   <img src="https://img.shields.io/github/stars/Gaurav-kun?style=flat-square&color=c8a032&label=Total%20Stars" />
   <img src="https://img.shields.io/github/followers/Gaurav-kun?style=flat-square&color=cc1433&label=Followers" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gaurav-kun&color=cc1433&style=flat-square&label=Profile+Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Gaurav-kun&color=cc1433&style=flat-square&label=Visitors" />
 </p>
 
 <div align="center">
