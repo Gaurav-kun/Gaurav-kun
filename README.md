@@ -53,54 +53,6 @@
 
 </details>
 
-<br/>
-
-<details open>
-  <summary><h2>📊 GitHub Statistics</h2></summary>
-
-  <br/>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-kun&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=c9d1d9&icon_color=cc1433&title_color=cc1433&border_radius=10" height="170" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-kun&layout=compact&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=cc1433&border_radius=10" height="170" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Gaurav-kun&hide_border=true&background=0d1117&stroke=cc1433&ring=cc1433&fire=cc1433&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=cc1433&sideLabels=c9d1d9&dates=8b949e&border_radius=10" width="48%" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Gaurav-kun&theme=radical&no-frame=true&no-bg=true&row=2&column=4&title_color=cc1433&margin-w=10&margin-h=10" width="48%" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav-kun&bg_color=0d1117&color=cc1433&line=cc1433&point=c8a032&area=true&hide_border=true&radius=10" width="96%" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaurav-kun&theme=dark" width="96%" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gaurav-kun&theme=dark" height="155" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gaurav-kun&theme=dark&utcOffset=8" height="155" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaurav-kun&theme=dark" height="155" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gaurav-kun&theme=dark" height="155" />
-  </p>
-
-  <h3 align="center">3D Contribution Graph</h3>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Gaurav-kun/Gaurav-kun/main/profile-3d-contrib/profile-night-rainbow.svg" width="85%" />
-  </p>
-
-  <h3 align="center">Star History</h3>
-  <p align="center">
-    <a href="https://star-history.com/#Gaurav-kun/animanga-archive&Date">
-      <img src="https://api.star-history.com/svg?repos=Gaurav-kun/animanga-archive&type=Date" width="70%" />
-    </a>
-  </p>
-
-</details>
-
-<br/>
-
 <details>
   <summary><h2>🛠️ Skills & Tools</h2></summary>
 
@@ -243,6 +195,52 @@
     </a>
     <a href="https://github.com/sponsors/Gaurav-kun">
       <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=github-sponsors&logoColor=white" />
+    </a>
+  </p>
+
+</details>
+
+<br/>
+
+<details open>
+  <summary><h2>📊 GitHub Statistics</h2></summary>
+
+  <br/>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-kun&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=c9d1d9&icon_color=cc1433&title_color=cc1433&border_radius=10" height="170" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-kun&layout=compact&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=cc1433&border_radius=10" height="170" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Gaurav-kun&hide_border=true&background=0d1117&stroke=cc1433&ring=cc1433&fire=cc1433&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=cc1433&sideLabels=c9d1d9&dates=8b949e&border_radius=10" width="48%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Gaurav-kun&theme=radical&no-frame=true&no-bg=true&row=2&column=4&title_color=cc1433&margin-w=10&margin-h=10" width="48%" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav-kun&bg_color=0d1117&color=cc1433&line=cc1433&point=c8a032&area=true&hide_border=true&radius=10" width="96%" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gaurav-kun&theme=dark" width="96%" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gaurav-kun&theme=dark" height="155" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gaurav-kun&theme=dark&utcOffset=8" height="155" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gaurav-kun&theme=dark" height="155" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gaurav-kun&theme=dark" height="155" />
+  </p>
+
+  <h3 align="center">3D Contribution Graph</h3>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Gaurav-kun/Gaurav-kun/main/profile-3d-contrib/profile-night-rainbow.svg" width="85%" />
+  </p>
+
+  <h3 align="center">Star History</h3>
+  <p align="center">
+    <a href="https://star-history.com/#Gaurav-kun/animanga-archive&Date">
+      <img src="https://api.star-history.com/svg?repos=Gaurav-kun/animanga-archive&type=Date" width="70%" />
     </a>
   </p>
 
