@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Gaurav%20Saikia&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=%E2%9A%94%EF%B8%8F%20Vanilla-First%20Developer%20%7C%20Musashi's%20Discipline%20%E2%9A%94%EF%B8%8F&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Gaurav%20Saikia&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Arch%20Linux%20%E2%80%A2%20Open-Source%20Contributor&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CC1433&center=true&vCenter=true&width=600&lines=Vanilla-first+developer;Musashi's+discipline+in+every+line;Building+with+obsession+and+craft;Zero+frameworks.+Zero+build+tools.+Just+craft.;%E2%9A%94%EF%B8%8F+Currently+learning+Python%2C+SQL%2C+PHP" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CC1433&center=true&vCenter=true&width=600&lines=Arch+Linux+%E2%80%A2+GNOME;Open-source+contributor;C+%E2%80%A2+C%2B%2B+%E2%80%A2+Rust+%E2%80%A2+Lua;Building+with+intention+and+craft;%F0%9F%94%A5+Currently+learning+Python%2C+SQL%2C+PHP" alt="Typing SVG" />
 </p>
 
 ```text
-⚔️  Software Developer · Frontend-Focused · Open-Source  ⚔️
+Software Developer · Open-Source · Arch Linux
 ```
 
 ---
@@ -17,11 +17,9 @@
   About Me
 </h2>
 
-> *"It may seem difficult at first, but everything is difficult at first."* — Miyamoto Musashi
+I'm a **BCA student from India** and a strong believer in open-source software. My goal is to build and share the best open-source features I can — tools and experiences that people actually enjoy using. I run **Arch Linux** with **GNOME**, use **Kitty** as my terminal, and code in **C, C++, Rust, Lua, and JavaScript**.
 
-I'm a **BCA student from Assam, India** — a frontend-focused developer who believes the best code is intentional, atmospheric, and framework-free. I build functional web interfaces with **pure HTML, CSS, and JavaScript**, infused with the discipline of Miyamoto Musashi's ronin philosophy.
-
-My work is data-driven, visually immersive, and meticulously hand-crafted — from **Three.js katana scenes** and **Web Audio API soundscapes** to **particle systems** and **scroll-powered storytelling**. Every project is a dojo where code meets craft.
+I'm currently working on a **private open-source project** — building something substantial that I'll share when it's ready. In my public work, I build data-driven web experiences — from **Three.js 3D scenes** and **Web Audio API soundscapes** to **particle systems** and **scroll-powered storytelling**.
 
 ---
 
@@ -32,7 +30,7 @@ My work is data-driven, visually immersive, and meticulously hand-crafted — fr
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,js,lua,python,html,css,threejs,blender,figma,ps,ae,lightroom&perline=7" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,js,lua,python,html,css,threejs,blender,figma,ps,ae,lightroom,arch,kitty&perline=9" />
   </a>
 </p>
 
@@ -83,7 +81,7 @@ My work is data-driven, visually immersive, and meticulously hand-crafted — fr
         <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" />
       </p>
       <p>
-        A hand-curated interactive catalog of <strong>100+ anime</strong>, <strong>100+ manga</strong>, and <strong>35+ manhwa</strong> entries — a personal dojo of curated taste, built with zero frameworks.
+        A hand-curated interactive catalog of <strong>100+ anime</strong>, <strong>100+ manga</strong>, and <strong>35+ manhwa</strong> entries — a personal catalog of curated taste, built with zero frameworks.
       </p>
       <ul>
         <li>🗡️ <strong>Three.js 3D katana</strong> scene with motion</li>
