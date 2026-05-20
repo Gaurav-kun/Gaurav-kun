@@ -18,7 +18,15 @@ I'm a **BCA student from India** and a strong believer in open-source software. 
 
 I develop across **Linux** and **Windows**, currently building **Rust-based applications** on **GNOME**. Active learning stack: **Rust**, **C++**, **PHP**.
 
-I'm working on a **private open-source project** — something substantial I'll share when it's ready. In my public work, I build data-driven web experiences — from **Three.js 3D scenes** and **Web Audio API soundscapes** to **particle systems** and **scroll-powered storytelling**.
+In my public work, I build data-driven web experiences — from **Three.js 3D scenes** and **Web Audio API soundscapes** to **particle systems** and **scroll-powered storytelling**.
+
+### 📋 Web Dev Learning Roadmap
+
+- [ ] **TypeScript** — typed superset of JS, modern standard
+- [ ] **React** — component-based UI library
+- [ ] **Node.js** — server-side JavaScript runtime
+- [ ] **Tailwind CSS** — utility-first styling
+- [ ] **PostgreSQL** — relational database for production apps
 
 <table>
 <tr>
@@ -50,10 +58,14 @@ I'm working on a **private open-source project** — something substantial I'll 
     <td width="50%" valign="top">
       <h3 align="center">🎨 Arch Linux Environment</h3>
       <p align="center">
+        <img src="https://img.shields.io/badge/Status-Private-cc1433?style=flat-square" />
         <img src="https://img.shields.io/badge/Shell-5391FE?style=flat-square&logo=gnu-bash&logoColor=white" />
         <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" />
         <img src="https://img.shields.io/badge/GTK-4A86CF?style=flat-square&logo=gtk&logoColor=white" />
         <img src="https://img.shields.io/badge/GNOME-4A86CF?style=flat-square&logo=gnome&logoColor=white" />
+      </p>
+      <p>
+        <em>(Private repo — not accepting contributions)</em>
       </p>
       <p>
         A meticulously crafted <strong>Arch Linux GNOME 50.1</strong> environment — <strong>1,000+ packages</strong>, full dotfiles across <strong>20+ applications</strong>, and a one-command restore system. Dark themed from boot splash to browser.
