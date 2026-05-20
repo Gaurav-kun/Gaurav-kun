@@ -38,7 +38,7 @@
           I use <strong>Claude (Anthropic)</strong> a lot while coding. Helps me plan things out, refactor, and catch mistakes. I also run <strong>Ollama</strong> locally for offline experiments. AI helps me move faster, but I still make the decisions.
         </p>
         <p>
-          Outside of code, I spend way too much time customizing my Linux setup, watching anime, and reading manga. I like things that look good and work well. I don't like bloated software, dark patterns, or landing pages that take 10 seconds to load.
+          Outside of code, I spend way too much time customizing my Linux setup, watching anime, and reading manga. I also enjoy playing around with different fonts and color schemes — yeah, I'm that guy.
         </p>
       </td>
       <td width="35%" valign="top">
