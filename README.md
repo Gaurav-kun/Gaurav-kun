@@ -65,7 +65,7 @@
   <h3 align="center">Languages & Frameworks</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,rust,java,js,lua,python,php,html,css,threejs,nodejs,react&perline=13" />
+      <img src="https://skillicons.dev/icons?i=c,cpp,rust,js,lua,html,css,threejs,mysql&perline=9" />
     </a>
   </p>
 
