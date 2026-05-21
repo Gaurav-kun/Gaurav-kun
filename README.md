@@ -72,7 +72,7 @@
   <h3 align="center">Tools & Environment</h3>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,bash,neovim,vscode,blender,figma,ps,ae,lightroom,arch,windows&perline=12" />
+      <img src="https://skillicons.dev/icons?i=git,github,bash,neovim,vscode,blender,figma,ps,ae,arch,windows&perline=11" />
     </a>
   </p>
 
