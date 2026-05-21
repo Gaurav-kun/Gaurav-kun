@@ -45,7 +45,6 @@
           <tr><td align="center">🐚 <b>Terminal</b></td><td>WezTerm</td></tr>
           <tr><td align="center">🎨 <b>Theme</b></td><td>Custom Dark</td></tr>
           <tr><td align="center">🔭 <b>Focus</b></td><td>Rust + GNOME</td></tr>
-
           <tr><td align="center">📚 <b>Learning</b></td><td>Rust, C++, PHP</td></tr>
         </table>
       </td>
