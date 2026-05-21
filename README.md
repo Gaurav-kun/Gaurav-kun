@@ -9,7 +9,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <code>BCA Student · Open-Source Developer · India</code>
+      <code>Open-Source Developer · India</code>
     </td>
   </tr>
 </table>
@@ -29,7 +29,7 @@
     <tr>
       <td width="65%">
         <p>
-          I'm a <strong>BCA student from India</strong> who likes taking things apart to see how they work — code included. That's what got me into open source, and I've been hooked since. I run <strong>Arch Linux</strong> with <strong>GNOME</strong> and <strong>WezTerm</strong> on my laptop, and keep <strong>Windows</strong> around for when I need it.
+          I like taking things apart to see how they work — code included. That's what got me into open source, and I've been hooked since. I run <strong>Arch Linux</strong> with <strong>GNOME</strong> and <strong>WezTerm</strong> on my laptop, and keep <strong>Windows</strong> around for when I need it.
         </p>
         <p>
           Learning <strong>Rust</strong> right now and messing around with GNOME apps. Also dabbling in <strong>C++</strong> and <strong>PHP</strong>. On the web side I use <strong>Three.js</strong>, <strong>Web Audio</strong>, and vanilla JS — I like making stuff that actually feels interactive.
