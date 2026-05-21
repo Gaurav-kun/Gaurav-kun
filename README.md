@@ -147,25 +147,6 @@
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h3 align="center">ChatPlex</h3>
-        <p align="center">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        </p>
-        <p align="center">
-          <a href="https://github.com/Gaurav-kun/ChatPlex" target="_blank">
-            <img src="https://img.shields.io/badge/Source%20Code-c8a032?style=for-the-badge&logo=github&logoColor=white" />
-          </a>
-        </p>
-        <p>My first ever project — built when I was just starting out (Nov 2023). Nothing fancy, but it's where I learned the basics.</p>
-        <ul>
-          <li>Message sending with plum-colored chat bubbles</li>
-          <li>Image capture & upload via camera input</li>
-          <li>Name prompt with LocalStorage persistence</li>
-          <li>Scroll-based navbar transparency effect</li>
-          <li>Teal/cyan accent theme with animated color-changing title</li>
-        </ul>
-      </td>
       <td width="50%" valign="top">
         <h3 align="center">Currently Building</h3>
         <p align="center">
