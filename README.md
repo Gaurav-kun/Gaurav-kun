@@ -29,16 +29,13 @@
     <tr>
       <td width="65%">
         <p>
-          I like taking things apart to see how they work — code included. That's what got me into open source, and I've been hooked since. I run <strong>Arch Linux</strong> with <strong>GNOME</strong> and <strong>WezTerm</strong> on my laptop, and keep <strong>Windows</strong> around for when I need it.
+          Open-source developer from India with a passion for systems programming and interactive web experiences. I work across the stack — from <strong>Rust</strong> and <strong>C++</strong> on the systems side to <strong>JavaScript</strong>, <strong>Three.js</strong>, and vanilla front-end technologies on the web.
         </p>
         <p>
-          Learning <strong>Rust</strong> right now and messing around with GNOME apps. Also dabbling in <strong>C++</strong> and <strong>PHP</strong>. On the web side I use <strong>Three.js</strong>, <strong>Web Audio</strong>, and vanilla JS — I like making stuff that actually feels interactive.
+          Currently building <strong>GNOME</strong> applications in Rust and exploring <strong>PHP</strong> for backend development. I maintain an interactive anime/manga catalog built entirely with vanilla JS, Three.js, and the Web Audio API — no frameworks, no build tools.
         </p>
         <p>
-          <strong>Claude</strong> helps me code every day. Good for planning, bouncing ideas, catching stupid bugs before I run into them. I also run <strong>Ollama</strong> locally when I want to experiment without internet. AI's a tool, not a replacement — I still call the shots.
-        </p>
-        <p>
-          When I'm not coding, I'm probably tweaking my desktop setup, watching anime, or reading manga. I collect manga too. I make anime-themed websites and apps for fun, game a bit, and eventually wanna learn gamedev.
+          I run <strong>Arch Linux</strong> with <strong>GNOME</strong> and <strong>WezTerm</strong> as my daily driver, with a Windows environment for cross-platform testing and tooling.
         </p>
       </td>
       <td width="35%" valign="top">
@@ -48,7 +45,7 @@
           <tr><td align="center">🐚 <b>Terminal</b></td><td>WezTerm</td></tr>
           <tr><td align="center">🎨 <b>Theme</b></td><td>Custom Dark</td></tr>
           <tr><td align="center">🔭 <b>Focus</b></td><td>Rust + GNOME</td></tr>
-          <tr><td align="center">🧠 <b>AI Tools</b></td><td>Claude + Ollama</td></tr>
+
           <tr><td align="center">📚 <b>Learning</b></td><td>Rust, C++, PHP</td></tr>
         </table>
       </td>
