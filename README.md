@@ -257,7 +257,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/Gaurav-kun/Gaurav-kun?style=for-the-badge&logo=github&logoColor=white&color=cc1433&label=Profile%20Updated" />
   <img src="https://img.shields.io/github/stars/Gaurav-kun?style=for-the-badge&logo=github&logoColor=white&color=c8a032&label=Total%20Stars" />
-  <img src="https://img.shields.io/github/followers/Gaurav-kun?style=for-the-badge&logo=github&logoColor=white&color=cc1433&label=Followers" />
+  <img src="https://img.shields.io/github/followers/Gaurav-kun?style=for-the-badge&color=cc1433&label=Followers" />
   <img src="https://komarev.com/ghpvc/?username=Gaurav-kun&color=cc1433&style=for-the-badge&label=Visitors" />
 </p>
 
