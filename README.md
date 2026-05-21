@@ -146,8 +146,7 @@
       </td>
     </tr>
     <tr>
-      <td width="50%" valign="top">
-      <td width="50%" valign="top">
+      <td width="50%" valign="top" colspan="2">
         <h3 align="center">Currently Building</h3>
         <p align="center">
           <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
