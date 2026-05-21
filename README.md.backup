@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CC1433&center=true&vCenter=true&width=800&lines=Systems+%E2%80%A2+Web+%E2%80%A2+Open+Source;Rust+%E2%80%A2+C%2B%2B+%E2%80%A2+JavaScript+%E2%80%A2+Lua;GNOME+apps+on+Rust+%E2%80%A2+Three.js+scenes;Anime%2Fmanga+catalog+%E2%80%A2+2.5K+lines+vanilla+JS;Daily+driver%3A+Arch+Linux+%2F+GNOME+%2F+WezTerm" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=CC1433&center=true&vCenter=true&width=700&lines=Building+on+Linux+%26+Windows;C+%E2%80%A2+C%2B%2B+%E2%80%A2+Rust+%E2%80%A2+Lua+%E2%80%A2+JS;Rust+apps+on+GNOME+%E2%80%A2+Three.js+scenes;Open-source+believer+%26+contributor" alt="Typing SVG" />
 </p>
 
 <table align="center">
@@ -203,29 +203,6 @@
   <h3 align="center">3D Contribution Graph</h3>
   <p align="center">
     <img src="https://raw.githubusercontent.com/Gaurav-kun/Gaurav-kun/main/profile-3d-contrib/profile-night-rainbow.svg" width="85%" />
-  </p>
-
-  <h3 align="center">Isometric Commit Calendar</h3>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Gaurav-kun/Gaurav-kun/main/metrics/isocalendar.svg" width="85%" />
-  </p>
-
-  <h3 align="center">Lines of Code Changed</h3>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Gaurav-kun/Gaurav-kun/main/metrics/lines.svg" width="85%" />
-  </p>
-
-</details>
-
-<br/>
-
-<details>
-  <summary><h2>🏆 Achievements</h2></summary>
-
-  <br/>
-
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Gaurav-kun/Gaurav-kun/main/metrics/achievements.svg" width="85%" />
   </p>
 
 </details>
