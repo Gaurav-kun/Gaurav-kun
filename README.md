@@ -37,9 +37,7 @@
         <p>
           I run <strong>Arch Linux</strong> with <strong>GNOME</strong> and <strong>WezTerm</strong> as my daily driver, with a Windows environment for cross-platform testing and tooling.
         </p>
-        <p>
-          Daily driver for coding is <strong>Claude CLI</strong> (Anthropic) — used for planning, code review, and debugging across all my projects. I also run <strong>Ollama</strong> locally for offline experimentation.
-        </p>
+      
       </td>
       <td width="35%" valign="top">
         <table>
