@@ -21,7 +21,7 @@
 <br/>
 
 <details open>
-  <summary><h2>👨‍💻 About</h2>
+  <summary><h2>👨‍💻 About</h2></summary>
 
   <br/>
 
