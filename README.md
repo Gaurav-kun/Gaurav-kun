@@ -21,39 +21,27 @@
 <br/>
 
 <details open>
-  <summary><h2>👨‍💻 About</h2></summary>
+  <summary><h2>👨‍💻 About</h2>
 
   <br/>
 
-  <table>
-    <tr>
-      <td width="65%">
-        <p>
-          Open-source developer from India with a passion for systems programming and interactive web experiences. I work across the stack — from <strong>Rust</strong> and <strong>C++</strong> on the systems side to <strong>JavaScript</strong>, <strong>Three.js</strong>, and vanilla front-end technologies on the web.
-        </p>
-        <p>
-          Currently building <strong>GNOME</strong> applications in Rust and exploring <strong>PHP</strong> for backend development. I maintain an interactive anime/manga catalog built entirely with vanilla JS, Three.js, and the Web Audio API — no frameworks, no build tools.
-        </p>
-        <p>
-          I run <strong>Arch Linux</strong> with <strong>GNOME</strong> and <strong>WezTerm</strong> as my daily driver, with a Windows environment for cross-platform testing and tooling.
-        </p>
-        <p>
-          Daily driver for coding is <strong>Claude CLI</strong> (Anthropic) — used for planning, code review, and debugging across all my projects. I also run <strong>Ollama</strong> locally for offline experimentation.
-        </p>
-      </td>
-      <td width="35%" valign="top">
-        <table>
-          <tr><td align="center">🌍 <b>Location</b></td><td>India</td></tr>
-          <tr><td align="center">🖥️ <b>OS</b></td><td>Arch Linux / Windows</td></tr>
-          <tr><td align="center">🐚 <b>Terminal</b></td><td>WezTerm</td></tr>
-          <tr><td align="center">🎨 <b>Theme</b></td><td>Custom Dark</td></tr>
-          <tr><td align="center">🔭 <b>Focus</b></td><td>Rust + GNOME</td></tr>
-          <tr><td align="center">🤖 <b>AI Tools</b></td><td>Claude CLI + Ollama</td></tr>
-          <tr><td align="center">📚 <b>Learning</b></td><td>Rust, C++, PHP</td></tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+  <p>
+    Hey, I'm Gaurav 👋
+  </p>
+
+  <p>
+    I'm a student from Assam, India, currently learning, experimenting, and figuring things out through code.
+  </p>
+
+  <p>
+    I believe in open-source software and the idea that useful tools should be accessible to everyone. My goal is to build and contribute to open-source projects that solve real problems and make people's lives a little easier.
+  </p>
+
+  <p>
+    I'm exploring different programming languages and technologies, learning as I go, and building things along the way. There's still a lot to learn, and that's part of the fun.
+  </p>
+
+  <p align="center"><strong>Learning by building. Building for everyone.</strong></p>
 
 </details>
 
