@@ -58,29 +58,6 @@
 </details>
 
 <details open>
-  <summary><h2>🛠️ Skills & Tools</h2></summary>
-
-  <br/>
-
-  <h3 align="center">Languages & Frameworks</h3>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,rust,js,lua,html,css,threejs,mysql&perline=9" />
-    </a>
-  </p>
-
-  <h3 align="center">Tools & Environment</h3>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,bash,neovim,vscode,blender,figma,ps,ae,arch,windows&perline=11" />
-    </a>
-  </p>
-
-</details>
-
-<br/>
-
-<details open>
   <summary><h2>🚀 Projects</h2></summary>
 
   <br/>
