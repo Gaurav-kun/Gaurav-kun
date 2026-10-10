@@ -26,7 +26,7 @@
   <br/>
 
   <p>
-    Hey, I'm Gaurav 👋
+    Hey, I'm Gaurav
   </p>
 
   <p>
@@ -40,8 +40,6 @@
   <p>
     I'm exploring different programming languages and technologies, learning as I go, and building things along the way. There's still a lot to learn, and that's part of the fun.
   </p>
-
-  <p align="center"><strong>Learning by building. Building for everyone.</strong></p>
 
 </details>
 
