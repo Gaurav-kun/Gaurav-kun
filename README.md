@@ -81,20 +81,8 @@
           </a>
         </p>
         <p>
-          A hand-curated interactive catalog of <strong>100+ anime</strong>, <strong>100+ manga</strong>, and <strong>35+ manhwa</strong> — built with zero frameworks.
+          A personal anime/manga archive built in 2025 — vanilla JS, Three.js for the 3D katana scene, and the Web Audio API for soundscapes.
         </p>
-        <ul>
-          <li>Three.js 3D katana scene with motion</li>
-          <li>Kanji fog, golden rain & ember particle systems</li>
-          <li>Real-time search / filter / sort by genre, rating & year</li>
-          <li>Dawn / Night theme toggle</li>
-          <li>Progress tracker with LocalStorage</li>
-          <li>Web Audio API — synthesized soundscapes</li>
-          <li>Scroll-progress sword bar & ink-blot loading</li>
-          <li>Daily picks & keyboard shortcuts</li>
-          <li>Fully responsive — mobile to desktop</li>
-          <li><strong>~2,500+ lines JS</strong> · <strong>~1,800+ lines CSS</strong></li>
-        </ul>
         <p align="center"><em>"Zero frameworks. Zero build tools."</em></p>
       </td>
     </tr>
