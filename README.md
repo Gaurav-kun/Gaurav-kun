@@ -25,40 +25,23 @@
 
   <br/>
 
-  <table>
-    <tr>
-      <td width="65%">
-        <p>
-          Hey, I'm Gaurav 👋
-        </p>
+  <p>
+    Hey, I'm Gaurav 👋
+  </p>
 
-        <p>
-          I'm a student from Assam, India, currently learning, experimenting, and figuring things out through code.
-        </p>
+  <p>
+    I'm a student from Assam, India, currently learning, experimenting, and figuring things out through code.
+  </p>
 
-        <p>
-          I believe in open-source software and the idea that useful tools should be accessible to everyone. My goal is to build and contribute to open-source projects that solve real problems and make people's lives a little easier.
-        </p>
+  <p>
+    I believe in open-source software and the idea that useful tools should be accessible to everyone. My goal is to build and contribute to open-source projects that solve real problems and make people's lives a little easier.
+  </p>
 
-        <p>
-          I'm exploring different programming languages and technologies, learning as I go, and building things along the way. There's still a lot to learn, and that's part of the fun.
-        </p>
+  <p>
+    I'm exploring different programming languages and technologies, learning as I go, and building things along the way. There's still a lot to learn, and that's part of the fun.
+  </p>
 
-        <p align="center"><strong>Learning by building. Building for everyone.</strong></p>
-      </td>
-      <td width="35%" valign="top">
-        <table>
-          <tr><td align="center">🌍 <b>Location</b></td><td>Assam, India</td></tr>
-          <tr><td align="center">🖥️ <b>OS</b></td><td>Arch Linux / Windows</td></tr>
-          <tr><td align="center">🐚 <b>Terminal</b></td><td>WezTerm</td></tr>
-          <tr><td align="center">🎨 <b>Theme</b></td><td>Custom Dark</td></tr>
-          <tr><td align="center">🔭 <b>Focus</b></td><td>Rust + GNOME</td></tr>
-          <tr><td align="center">🤖 <b>AI Tools</b></td><td>Claude CLI + Ollama</td></tr>
-          <tr><td align="center">📚 <b>Learning</b></td><td>Rust, C++, PHP</td></tr>
-        </table>
-      </td>
-    </tr>
-  </table>
+  <p align="center"><strong>Learning by building. Building for everyone.</strong></p>
 
 </details>
 
