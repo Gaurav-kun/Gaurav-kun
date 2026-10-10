@@ -107,17 +107,7 @@
   <br/>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Gaurav-kun&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&text_color=c9d1d9&icon_color=cc1433&title_color=cc1433&border_radius=10" height="170" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaurav-kun&layout=compact&hide_border=true&count_private=true&bg_color=0d1117&text_color=c9d1d9&title_color=cc1433&border_radius=10" height="170" />
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gaurav-kun&bg_color=0d1117&color=cc1433&line=cc1433&point=c8a032&area=true&hide_border=true&radius=10" width="96%" />
-  </p>
-
-  <h3 align="center">3D Contribution Graph</h3>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/Gaurav-kun/Gaurav-kun/main/profile-3d-contrib/profile-night-rainbow.svg" width="85%" />
+    <img src="https://yourinsights.vercel.app/api/insight?username=Gaurav-kun&theme=radical&streak=true&graph=true&languages=true" alt="GitHub Insights" />
   </p>
 
 </details>
