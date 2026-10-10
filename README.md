@@ -80,10 +80,12 @@
             <img src="https://img.shields.io/badge/Source%20Code-c8a032?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </p>
-        <p>
-          A personal anime/manga archive built in 2025 — vanilla JS, Three.js for the 3D katana scene, and the Web Audio API for soundscapes.
-        </p>
-        <p align="center"><em>"Zero frameworks. Zero build tools."</em></p>
+        <ul>
+          <li>Personal anime/manga archive built in 2025</li>
+          <li>Vanilla JavaScript — no frameworks</li>
+          <li>Three.js for the 3D katana scene</li>
+          <li>Web Audio API for soundscapes</li>
+        </ul>
       </td>
     </tr>
   </table>
